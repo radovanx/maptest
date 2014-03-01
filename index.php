@@ -5,6 +5,19 @@
         <title></title>
     </head>
     <body>
+        
+            |
+            ||
+            ||-\
+            ||--|
+            ||--|  
+       XX   ||       XXXXX
+       XXXXXXXXXXXXXXXXXX  
+~~~~~~~XXXXXXXXXXXXXXX~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~        
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+ 
+ 
         hello hello<br>
        
      <?php
