@@ -84,13 +84,11 @@ box-shadow:none;
 
 #branding{
 background:url(logo.png) no-repeat;
-width:322px;
-height:165px;
+max-width:322px;
+height:65px;
 text-indent:-999px;
 font-size:0px;
-margin:-10px auto 0 auto;
-border-bottom:1px solid rgba(65, 38, 37, 0.6);
-}
+margin:-10px auto 0 auto;}
 
 .choice_list h1{
 margin-top:30px;
