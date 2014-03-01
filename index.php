@@ -6,10 +6,8 @@
     </head>
     <body>
         hello hello<br>
-        
-        tadydadyda
-        
-        <?php
+       
+     <?php
         // put your code here
         ?>
     </body>
