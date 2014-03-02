@@ -76,14 +76,11 @@ box-shadow:none;
 background:rgba(0, 0, 0, 0.3);
 box-shadow:none;
 }
-
-
-
-
+ 
 /*** home**/
 
 #branding{
-background:url(logo.png) no-repeat;
+background:url(images/logo.png) no-repeat;
 max-width:322px;
 height:65px;
 text-indent:-999px;
