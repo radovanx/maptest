@@ -25,9 +25,7 @@
 	</div>	
 	<div class="choice_list"> 
 	<h1>Category</h1>
-
-        
-        
+ 
          <script> 
          $(document).on('pagebeforeshow', '#home', function(){     
         
@@ -43,7 +41,7 @@
     
          $.each(data.categories,function(i,category){
      
-         menu = '<li><a href="choose_town.html" data-transition="slidedown"><h3>'+category.name+'</h3></a></li>'; 
+         menu = '<li><a href="choose_town.html" data-transition="slidedown"><img src="images/item_'+category.tax+'_normal.png"/><h3>'+category.name+'</h3></a></li>'; 
 
           $('.menu').append(menu);
           $(".menu").listview('refresh');
@@ -55,15 +53,9 @@
          
         </script>
         
-        
-        
-        
-        
-	
+
 	<ul data-role="listview" data-inset="true" class="menu">
-        <li><a href="choose_town.html" data-transition="slidedown" > <img src="sushis.jpg"/> <h3> Some Sushis</h3></a></li>
 	</ul>	
-	
 	</div>
 	</div>
 
